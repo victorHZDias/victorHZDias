@@ -40,3 +40,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-victorzanellad@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorzanellad@gmail.com)](mailto:victorzanellad@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/victorHZDias?label=follow&style=social)](https://github.com/victorHZDias)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/victore.renata.94?locale=pt_BR)
+
+#### Aqui alguns conteúdos que já criei:
+- <a href="https://github.com/victorHZDias/HousePrices/tree/main#readme">
+  Projeto Kaggle: Prevendo o preço das casas (House Prices) 
+  </a>
