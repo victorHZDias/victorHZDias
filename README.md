@@ -45,6 +45,6 @@
 - <a href="https://github.com/victorHZDias/HousePrices/tree/main#readme">
   Projeto Kaggle: Prevendo o preço das casas (House Prices) 
   </a>
-  - <a href="[https://github.com/victorHZDias/HousePrices/tree/main#readme](https://github.com/victorHZDias/segmentacao-clientes)">
+- <a href="[https://github.com/victorHZDias/HousePrices/tree/main#readme](https://github.com/victorHZDias/segmentacao-clientes)">
   Projeto Kaggle: Segmentação de clientes de um Supermercado
   </a>
