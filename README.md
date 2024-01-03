@@ -1,7 +1,7 @@
 👋 **Olá, meu nome é Victor.**
 - 🎓 Sou formado em **Administração** pela <a href="https://esic.br/"><img src="https://esic.br/wp-content/uploads/2023/01/Faculdade-e-Colegio-Branca-1-2048x1179.png" width=60 /> </a>.
 - 🎓 Estudando Ciência de Dados na <a href="https://www.uninter.com/"><img src="https://www.uninter.com/wp-content/uploads/2016/11/logo-uninter.png" width=60 /></a>.
-- 👨‍🎓 Concluí vários cursos na <a href="https://www.hashtagtreinamentos.com/"><img src="https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png.webp" width=60 /></a>.
+- 👨‍🎓 Concluí e ainda estou cursando vários cursos na área de programação e ciência de dados pela <a href="https://www.hashtagtreinamentos.com/"><img src="https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png.webp" width=60 /></a>.
 - 🥋 Sou praticante de Jiu-jítsu, esporte que amo e acredito ser muito importante no meu crescimento pessoal. 
 - 💼 Trabalhando como **Analista de Cobrança Sr.** na <a href="https://www.uninter.com/"><img src="https://www.uninter.com/wp-content/uploads/2016/11/logo-uninter.png" width=60 /></a>.
 - 🧑‍💻 Atualmente estou focado em Análise de Dados e Ciência de dados.
