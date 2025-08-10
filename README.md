@@ -1,61 +1,61 @@
-👋 **Olá, meu nome é Victor.**
-- 🎓 Sou formado em **Administração** pela <a href="https://esic.br/"><img src="https://esic.br/wp-content/uploads/2023/01/Faculdade-e-Colegio-Branca-1-2048x1179.png" width=60 /> </a>.
-- 🎓 Estudando Ciência de Dados na <a href="https://www.uninter.com/"><img src="https://www.uninter.com/wp-content/uploads/2016/11/logo-uninter.png" width=60 /></a>.
-- 👨‍🎓 Concluí e ainda estou cursando vários cursos na área de programação e ciência de dados pela <a href="https://www.hashtagtreinamentos.com/"><img src="https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png.webp" width=60 /></a>.
-- 🥋 Sou praticante de Jiu-jítsu, esporte que amo e acredito ser muito importante no meu crescimento pessoal. 
-- 💼 Trabalhando como **Analista de Cobrança Sr.** na <a href="https://www.uninter.com/"><img src="https://www.uninter.com/wp-content/uploads/2016/11/logo-uninter.png" width=60 /></a>.
-- 🧑‍💻 Atualmente estou focado em Análise de Dados e Ciência de dados.
+👋 Olá, sou o Victor!
+Sou um profissional formado em Administração e atualmente em transição de carreira, mergulhando no mundo da Análise de Dados e Ciência de Dados na Uninter. Minha experiência como Analista de Cobrança Sênior me deu uma base sólida para entender negócios, e agora estou combinando essa visão com habilidades técnicas para criar soluções eficientes e baseadas em dados.
 
-<h3>Minhas Skills</h3>
+Quando não estou estudando ou codificando, sou praticante de Jiu-jítsu, um esporte que me ensinou disciplina, resiliência e a importância da estratégia, qualidades que aplico diariamente na minha vida profissional.
 
-**Análise de dados e Automação de processos**
+Minhas Habilidades
+Linguagens e Ferramentas:
+<br/>
 
-<div style="display: inline">
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width=50 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=50 />
-
-<img src="https://img.icons8.com/?size=48&id=13654&format=png" width=50 />
-
-<img src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.3/1695545193901/Microsoft.VisualStudio.Services.Icons.Default" width=50 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=50 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width=50 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width=50 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width=50 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50 />
-                  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=50 />
+<div style="display: inline-block;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/VBA-8A2BE2?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
+Ferramentas de Desenvolvimento:
 <br/>
 
-**Ferramentas de desenvolvimento**
+<div style="display: inline-block;">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</div>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-<br/>
+Meus Projetos
+<ul>
+<li>
+<a href="https://github.com/victorHZDias/HousePrices/tree/main#readme">
 
-<h3>Onde me encontrar</h3>
+  Projeto Kaggle: Prevendo o preço das casas (House Prices) 
+
+  </a><br>
+<em>Descrição:</em> Análise de um dataset de preços de casas utilizando Python e Pandas para criar um modelo de previsão. O projeto explora técnicas de pré-processamento de dados e análise exploratória.
+</li>
+<li>
+<a href="https://github.com/victorHZDias/segmentacao-clientes">
+
+  Projeto Kaggle: Segmentação de clientes de um Supermercado
+
+  </a> <br>
+<em>Descrição:</em> Utilização de algoritmos de Machine Learning (como K-Means) para segmentar clientes com base em seus hábitos de compra. O objetivo é identificar perfis de consumidores para ações de marketing direcionadas.
+</li>
+</ul>
+
+Onde me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/-victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-zanella-dias)](https://www.linkedin.com/in/victor-zanella-dias)
-[![Gmail Badge](https://img.shields.io/badge/-victorzanellad@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorzanellad@gmail.com)](mailto:victorzanellad@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/victorHZDias?label=follow&style=social)](https://github.com/victorHZDias)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/victore.renata.94?locale=pt_BR)
 
-#### Aqui alguns conteúdos que já criei:
-- <a href="https://github.com/victorHZDias/HousePrices/tree/main#readme">
-  Projeto Kaggle: Prevendo o preço das casas (House Prices) 
-  </a>
-- <a href="https://github.com/victorHZDias/segmentacao-clientes">
-  Projeto Kaggle: Segmentação de clientes de um Supermercado
-  </a>
+[![Gmail Badge](https://img.shields.io/badge/-victorzanellad@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorzanellad@gmail.com)](mailto:victorzanellad@gmail.com)
+
+[![GitHub](https://img.shields.io/github/followers/victorHZDias?label=follow&style=social)](https://github.com/victorHZDias)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/victore.renata.94?locale=pt_BR)
